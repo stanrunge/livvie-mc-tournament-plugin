@@ -1,0 +1,9 @@
+name: LivvieMinecraftTournamentPlugin
+main: dev.stanrunge.LivvieMinecraftTournamentPlugin
+version: "1.0"
+api-version: 1.20
+
+commands:
+  resetplaytime:
+    description: Resets the playtime of all players or a specific player.
+    usage: /resetplaytime [player]

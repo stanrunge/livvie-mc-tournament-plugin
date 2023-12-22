@@ -1,0 +1,16 @@
+cache
+crash-reports
+libraries
+logs
+versions
+
+world*
+
+banned-ips.json
+banned-players.json
+
+usercache.json
+version_history.json
+whitelist.json
+
+eula.txt
